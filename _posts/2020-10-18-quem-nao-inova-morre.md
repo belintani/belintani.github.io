@@ -4,206 +4,43 @@ author: Daniel Belintani
 date: 2020-10-18 22:10:00 -0300
 categories: [Carreira]
 math: true
-#image: /assets/img/sample/devices-mockup.png
+# image: /assets/img/sample/devices-mockup.png
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
+Esta verdade inquestionável já deve ter passado por seus ouvidos em algum momento. Talvez a primeira vez em um [caso de estudo da Yahoo, vendida a Verizon](https://www.forbes.com/sites/briansolomon/2016/07/25/yahoo-sells-to-verizon-for-5-billion-marissa-mayer/#32d70cd8450f) por 4% da sua maior valorização histórica; ou quem sabe em algum podcast falando da [Nokia, quando insistiu em seu teclado qwerty](http://vrworld.com/2011/01/31/analysis-the-fall-of-nokia/) até ser esmagado pelo atraso na adesão ao android após a [revolução do touchscreen liderado por Steve jobs no iPhone](https://time.com/4628515/steve-jobs-iphone-launch-keynote-2007);
 
-## Titles
+Aproximando mais a nossa realidade, em inovação tecnológica, grandes nomes reforçam a importância da inovação, como [Elon Musk](https://www.ebiografia.com/elon_musk), ao citar:  
+ > "O fracasso é uma opção. Se as coisas não estão a falhar, não está a inovar o suficiente." 
 
----
+ou [Steve Jobs](https://www.ebiografia.com/steve_jobs/) quando disse:
+ > "Inovação é o que distingue um líder de um seguidor. As pessoas loucas o suficiente de pensar que podem mudar o mundo, são aquelas que o fazem."
 
-# H1
+Em analogia com o instinto de sobrevivência, seria natural a reflexão sobre a definição de inovação agora. 
+Segundo [Barack Obama](https://www.biography.com/us-president/barack-obama):
+ > “Inovação é a criação de algo que melhora a maneira como vivemos as nossas vidas". 
 
-<h2 data-toc-skip>H2</h2>
+Já para [Peter Drucker](https://www.ebiografia.com/peter_drucker/), considerado como o pai da administração ou gestão moderna:
+ > "Inovação é a mudança que cria uma nova dimensão de desempenho". 
 
-<h3 data-toc-skip>H3</h3>
+Em termos práticos, de acordo com [Schumpeter](https://pt.wikipedia.org/wiki/Joseph_Schumpeter):
+> "Inovação refere-se a qualquer nova política para reduzir o custo total de produção ou aumentar a demanda por seus produtos".
 
-<h4>H4</h4>
+Saindo da teoria e observando parte da minha vivência pessoal no mercado de tecnologia nacional, posso citar alguns exemplos que comprovam o quanto, cada dia a inovação é necessária para manter um produto ou empresa no mercado.
 
----
+Dentre os mais marcantes, impossível não questionar as inovações no universo dos dispositivos móveis. Há apenas uma década (meados de 2010), ainda nos primórdios da [IoT](https://www.oracle.com/internet-of-things/what-is-iot.html) (internet das coisas), criar uma simples funcionalidade para rodar em celular não era fácil, tínhamos inúmeras limitações de memória, processamento, e bateria. Requeríamos no mínimo um estudo em [J2ME (java micro edition)](https://www.java.com/pt-BR/download/help/whatis_j2me.html). Já nos dias de hoje, após muita inovação na área, felizmente, temos a facilidade em certo nível de que até [jovens já estão criando seus próprios aplicativos](https://www.hongkiat.com/blog/young-talented-app-developers/).
 
-## Paragraph
+Outro exemplo bem ilustrativo é o universo dos bancos. Quando iniciei na área, estava claro que bancos "já faziam tudo que precisava", e empresas insistiam que aprender Cobol era uma grande oportunidade de se manter no mercado até a aposentaria, uma vez que era "impossível" os bancos desistirem dos seus mainframes. Porém, nos últimos anos vimos nascer Bancos 100% digitais, acompanhamos os bancos 'tradicionais' se reinventando / inovando, e temos pela frente o lançamento do PIX, novo ecossistema de pagamentos instantâneos (quase uma criptomoeda estatal, mas vamos guardar o tópico para outro papo).
 
-I wandered lonely as a cloud
+Existem empresas fortes que se mantém em atualização, mas a grande parte de inovação hoje está descentralizado em milhares de startups pelo mundo. Os novos unicórnios somados trazem uma representatividade alta perante investimentos nas grandes companhias, o que torna a famosa "acqui-hiring" (processo de aquisição de uma empresa principalmente para recrutar os seus funcionários) cada vez mais valiosa. Confie em mim, se não estiver a inovar, não receberá uma proposta.
 
-That floats on high o'er vales and hills,
+Na área de desenvolvimento de software, buscar inovação é algo corriqueiro, e fugir não é uma opção inteligente. Certamente você deve trabalhar com as linguagens de programação mais atualizadas, usar as últimas versões de software, e estar antenado(a) nas tecnologias emergentes.
 
-When all at once I saw a crowd,
+Alguns colegas que não me escutaram em 2010 quando os alertei, seguiram teimosamente até a ruína de tecnologias como a [Adobe Flex Builder](https://www.adobe.com/br/products/flex.html) , que utilizava Java para criar apps em flash.
 
-A host, of golden daffodils;
+Temos sim muito código legado e sistemas que funcionam bem com tecnologias arcaicas atualmente. Não caia na conversa fiada de que "é um sistema velho, mas nunca vai morrer". Tudo terá um fim, assim como o próprio código que acabou de escrever também terá um destino trágico (lixeira), seja por problemas de escalabilidade, desempenho ou limitações de integração.
 
-Beside the lake, beneath the trees,
+A minha sugestão é que busque o conhecimento básico, e entenda como tecnologias anteriores contribuíram para o cenário atual, mas que principalmente, procure trabalhar em empresas que estão a procurar inovação.
 
-Fluttering and dancing in the breeze.
+Se por acaso inovação não faz parte do seu dia a dia corporativo, mude de emprego! Caso contrário estará limitado e não poderá usar recursos computacionais mais atualizados, terá uma comunidade fraca para se relacionar, e ao longo prazo, perderá currículo e ganhará menos dinheiro. Um caminho conhecido é esquivar-se das propostas das grandes corporações engessadas e apostar nas startups, e tenha certeza que a experiência de 1 ano vale por 3 anos numa empresa que tem inovação como o seu diferencial.
 
-## List
-
-### Ordered list
-
-1. first item
-2. second item
-3. third item
-
-### Unordered list
-
-- item 1
-	- sub item 1
-	- sub item 2
-
-- item 2
-
-## Block Quote
-
-> This line to shows the Block Quote.
-
-## Tables
-
-| Company                      | contact          | Country |
-|:-----------------------------|:-----------------|--------:|
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    | UK      |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli | Italy   |
-
-## Link
-
-<http://127.0.0.1:4000>
-
-
-## Footnote
-
-Click the hook will locate the footnote[^footnote].
-
-
-## Images
-
-By default, the image is centered and the image caption can be displayed at the bottom:
-
-![Desktop View](/assets/img/sample/mockup.png)
-_Full screen width and center alignment_
-
-You can change the size of the picture:
-
-![Desktop View](/assets/img/sample/mockup.png){: width="400"}
-_400px image width_
-
-In addition, you can use class `normal` , `left` and `right` to specify the image position (but in these case, the image caption is prohibited), for example:
-
-- Normal position
-  
-  ![Desktop View](/assets/img/sample/mockup.png){: width="350" class="normal"}
-
-- Float to the left
-
-  ![Desktop View](/assets/img/sample/mockup.png){: width="240" class="left"}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
-
-- Float to the right
-
-  ![Desktop View](/assets/img/sample/mockup.png){: width="240" class="right"}
-  "A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space. A repetitive and meaningless text is used to fill the space."
-
-## Inline code
-
-This is an example of `Inline Code`.
-
-## Mathematics
-
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
-
-$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
-
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-## Code Snippet
-
-### Common
-
-```
-This is a common code snippet, without syntax highlight and line number.
-```
-
-### Specific Languages
-
-#### Console
-
-```console
-$ date
-Sun Nov  3 15:11:12 CST 2019
-```
-
-
-#### Terminal
-
-```terminal
-$ env |grep SHELL
-SHELL=/usr/local/bin/bash
-PYENV_SHELL=bash
-```
-
-#### Ruby
-
-```ruby
-def sum_eq_n?(arr, n)
-  return true if arr.empty? && n == 0
-  arr.product(arr).reject { |a,b| a == b }.any? { |a,b| a + b == n }
-end
-```
-
-#### Shell
-
-```shell
-if [ $? -ne 0 ]; then
-    echo "The command was not successful.";
-    #do the needful / exit
-fi;
-```
-
-#### Liquid
-
-{% raw %}
-```liquid
-{% if product.title contains 'Pack' %}
-  This product's title contains the word Pack.
-{% endif %}
-```
-{% endraw %}
-
-#### HTML
-
-```html
-<div class="sidenav">
-  <a href="#contact">Contact</a>
-  <button class="dropdown-btn">Dropdown
-    <i class="fa fa-caret-down"></i>
-  </button>
-  <div class="dropdown-container">
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
-  </div>
-  <a href="#contact">Search</a>
-</div>
-```
-
-**Horizontal Scrolling**
-
-```html
-<div class="panel-group">
-  <div class="panel panel-default">
-    <div class="panel-heading" id="{{ category_name }}">
-      <i class="far fa-folder"></i>
-      <p>This is a very long long long long long long long long long long long long long long long long long long long long long line.</p>
-      </a>
-    </div>
-  </div>
-</div>
-```
-
-
-## Reverse Footnote
-
-[^footnote]: The footnote source.
