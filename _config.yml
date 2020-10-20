@@ -10,7 +10,7 @@
 
 title: Daniel Belintani                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: CTO, as vezes Programador, aleatoriamente Sonhador.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -20,7 +20,7 @@ description: >-                        # used by seo meta and the atom feed
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://belintani.github.io'
 
-author: your_full_name                  # change to your full name
+author: Daniel Belintani                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
