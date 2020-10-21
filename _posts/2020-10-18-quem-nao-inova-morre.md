@@ -10,22 +10,27 @@ math: true
 
 Esta verdade inquestionável já deve ter passado por seus ouvidos em algum momento. Talvez a primeira vez em um [caso de estudo da Yahoo, vendida a Verizon](https://www.forbes.com/sites/briansolomon/2016/07/25/yahoo-sells-to-verizon-for-5-billion-marissa-mayer/#32d70cd8450f) por 4% da sua maior valorização histórica; ou quem sabe em algum podcast falando da [Nokia, quando insistiu em seu teclado qwerty](http://vrworld.com/2011/01/31/analysis-the-fall-of-nokia/) até ser esmagado pelo atraso na adesão ao android após a [revolução do touchscreen liderado por Steve jobs no iPhone](https://time.com/4628515/steve-jobs-iphone-launch-keynote-2007);
 
+![Desktop View](/assets/img/posts/quem-nao-inova-morre/elon-musk.jpg){: width="87" class="left"}
 Aproximando mais a nossa realidade, em inovação tecnológica, grandes nomes reforçam a importância da inovação, como [Elon Musk](https://www.ebiografia.com/elon_musk), ao citar:  
  > "O fracasso é uma opção. Se as coisas não estão a falhar, não está a inovar o suficiente." 
 
-ou [Steve Jobs](https://www.ebiografia.com/steve_jobs/) quando disse:
+![Desktop View](/assets/img/posts/quem-nao-inova-morre/steve-jobs.jpg){: width="85" class="right"}
+ou [Steve Jobs](https://www.ebiografia.com/steve_jobs/), quando defende que:
  > "Inovação é o que distingue um líder de um seguidor. As pessoas loucas o suficiente de pensar que podem mudar o mundo, são aquelas que o fazem."
 
 Em analogia com o instinto de sobrevivência, seria natural a reflexão sobre "o que é inovação". Vejamos algumas definições.   
 
+![Desktop View](/assets/img/posts/quem-nao-inova-morre/barack-obama.jpg){: width="60" class="left"}
 Segundo [Barack Obama](https://www.biography.com/us-president/barack-obama):
  > “Inovação é a criação de algo que melhora a maneira como vivemos as nossas vidas". 
 
-Já para [Peter Drucker](https://www.ebiografia.com/peter_drucker/), considerado como o pai da administração ou gestão moderna:
+![Desktop View](/assets/img/posts/quem-nao-inova-morre/peter-drucker.jpg){: width="80" class="right"}
+Já para [Peter Drucker](https://www.ebiografia.com/peter_drucker/), considerado como o pai da administração ou gestão moderna, e influenciador de um grande número de líderes e de organizações em todos os setores da sociedade:
  > "Inovação é a mudança que cria uma nova dimensão de desempenho". 
 
+![Desktop View](/assets/img/posts/quem-nao-inova-morre/joseph-schumpeter.jpg){: width="85" class="left"}
 Em termos práticos, de acordo com [Schumpeter](https://pt.wikipedia.org/wiki/Joseph_Schumpeter):
-> "Inovação refere-se a qualquer nova política para reduzir o custo total de produção ou aumentar a demanda por seus produtos".
+ > "Inovação refere-se a qualquer nova política para reduzir o custo total de produção ou aumentar a demanda por seus produtos".
 
 Saindo da teoria e observando parte da minha vivência pessoal no mercado de tecnologia nacional, posso citar alguns exemplos que comprovam o quanto, cada dia a inovação é necessária para manter um produto ou empresa no mercado.
 
