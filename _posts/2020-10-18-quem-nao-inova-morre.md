@@ -16,7 +16,8 @@ Aproximando mais a nossa realidade, em inovação tecnológica, grandes nomes re
 ou [Steve Jobs](https://www.ebiografia.com/steve_jobs/) quando disse:
  > "Inovação é o que distingue um líder de um seguidor. As pessoas loucas o suficiente de pensar que podem mudar o mundo, são aquelas que o fazem."
 
-Em analogia com o instinto de sobrevivência, seria natural a reflexão sobre a definição de inovação agora. 
+Em analogia com o instinto de sobrevivência, seria natural a reflexão sobre "o que é inovação". Vejamos algumas definições.   
+
 Segundo [Barack Obama](https://www.biography.com/us-president/barack-obama):
  > “Inovação é a criação de algo que melhora a maneira como vivemos as nossas vidas". 
 
