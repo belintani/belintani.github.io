@@ -10,7 +10,7 @@ math: true
 
 Este título não se trata apenas um [clickbait](https://pt.wikipedia.org/wiki/Clickbait), mas sim um tema sensível, uma vez que pode atacar diretamente o ego de quem vem a construir _software_ ao deparar com o fim trágico e eminente do seu trabalho.
 
-Participei ativamente de pelo menos 250 contratações de devs nos últimos anos, e considerando uma média de 30 entrevistas presenciais para cada posição, estamos a falar de algo em torno de 7.500 reuniões de recrutamento. Acredite ou não, uma das frases que mais escuto de candidatos é: 
+Participei ativamente de pelo menos 250 contratações de devs nos últimos anos, e considerando uma média de 30 entrevistas presenciais para cada posição, estamos a falar de algo em torno de 7.500 reuniões de recrutamento. Acredite ou não, uma das frases que mais escuto dos participantes é: 
 > "Eu não faço código para ir parar no lixo".
 
 Algo interessante é que esta frase sempre traz o gatilho que preciso para compartilhar um pensamento que venho a propagar há alguns anos: "Todo o seu código, ou boa parte dele, vai virar lixo". A reação de espanto ou choque de realidade é instantânea para quem escuta pela primeira vez, e claro, ao mesmo tempo, já utilizo para avaliar comportamento ao ser confrontado(a) em algo que sempre repetiu a carreira toda.
@@ -30,7 +30,7 @@ Uma das missões de todo bom profissional na área é justamente **aumentar a lo
 
 O primeiro passo que recomendo é justamente o reconhecimento. Saber que o código um dia será apagado, o que precisa ser feito para garantir que ele atenda o seu propósito pelo maior tempo possível.
 
-Adicionar [teste unitário](https://softwaretestingfundamentals.com/unit-testing/) no seu código é um excelente início. Sem ele, é quase certo que outra pessoa vai achar mais fácil apagar e reescrever a sua função. Todavia, se o código estiver com 100% de cobertura, com todos os casos mapeados, a probabilidade do código "sobreviver" a manutenção é exponencialmente maior. O ponto de atenção é que teste unitário mal elaborado/pensado, provavelmente vão parar no lixo a cada alteração.
+Adicionar [teste unitário](https://softwaretestingfundamentals.com/unit-testing/) no seu código é um excelente início. Sem ele, é quase certo que outra pessoa vai achar mais fácil apagar e reescrever a sua função. Todavia, se o código estiver com 100% de cobertura, com todos os casos mapeados, a probabilidade do código "sobreviver" a manutenção é exponencialmente maior. O ponto de atenção é que teste unitário mal elaborado/pensado, provavelmente vai parar no lixo a cada nova alteração.
 
 Utilizar tecnologia de ponta é o mais óbvio. Se um ciclo de vida de 3-5 anos já é considerado longo para um _software_, o que acontece se for utilizado uma linguagem de programação ou framework com 2 anos já atrasado? O código vai parar no lixo 2 anos mais cedo, simples assim! Nunca inicie um projeto utilizando tecnologia antiga, por mais que "a curva de aprendizado vá tirar-lhe da zona de conforto", o compromisso em lutar contra a remoção do seu código tem que ser mais relevante. E se, o que lhe limita é a tecnologia já adotada na empresa, termine este texto, agende um compromisso de 1 hora na sua vida, PARE TUDO, e vá ler sobre [microsserviços](https://microservices.io/) e virtualização com [docker](https://www.docker.com/).
 
@@ -43,10 +43,10 @@ Afinal, qual a longevidade buscar? A fórmula é bem simples. **Custo x Benefíc
 Reconhecendo o fracasso eminente do seu código, e o esforço em adequa-lo aos padrões da longevidade, coloque na balança. 
 Se em 3 horas for possível produzir um código que irá durar 6 meses, logo, em 12 horas deveria ser criado algo para permanecer por mais de 2 anos. Caso contrário, não é tão vantajoso assim.
 
-Contudo, isso depende. Em _startups_, a grande armadilha mora no _over engineering_. Muitas vezes devs com muita experiência de mercado insistem em dedicar **200 horas** em criar uma funcionalidade que poderia ser desenvolvida em **40 horas** (e durar apenas 1 ano). Para tirarmos vantagem (CxB), o código precisa durar 5 anos. E o mais bizarro é que normalmente são códigos preparados para tal longevidade. Mas nem tudo são flores e tão simples.
+Contudo, isso depende. Em _startups_, a grande armadilha mora no [_over engineering_](https://www.codesimplicity.com/post/what-is-overengineering/). Muitas vezes devs com muita experiência de mercado insistem em dedicar **200 horas** em criar uma funcionalidade que poderia ser desenvolvida em **40 horas** (e durar apenas 1 ano). Para tirarmos vantagem (CxB), o código precisa durar 5 anos. E o mais bizarro é que normalmente são códigos preparados para tal longevidade. Mas nem tudo são flores e tão simples.
 
 O que **erroneamente** acaba a ficar de fora da equação é o [_time to market_](https://en.wikipedia.org/wiki/Time_to_market). Uma _startup_ precisa sempre estar de olho em aproveitar o momento. Não adianta negar, todos queremos o famoso [unicórnio](https://www.inacademy.eu/blog/whats-a-unicorn-startup-company/), e quando buscamos crescimento exponencial, é mais vantajoso ter um código que irá durar 1 ano, mas que é desenvolvido em 1 semana, do que uma funcionalidade que vai permanecer imutável por 5 anos levando mais de 1 mês para ser construída. Afinal, é _startup_, a cada trimestre o foco ainda pode mudar, e uma funcionalidade nova poderá trazer "aquele cliente" que irá salvar as contas do mês.
-
+   
 Isso não é um passe livre para criar um monte de código lixo! Afinal, queremos um código que vai parar na lixeira, e não que já nasce lá. 
 
 1. Esteja preparado(a) para criar um código que irá durar muito, será util algumas vezes.
