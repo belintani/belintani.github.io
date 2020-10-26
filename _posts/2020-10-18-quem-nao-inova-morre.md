@@ -3,8 +3,9 @@ title: Quem não inova, morre
 author: Daniel Belintani
 date: 2020-10-18 22:10:00 -0300
 categories: [Carreira]
+tags: [carreira, inovação]
 math: true
-# image: /assets/img/sample/devices-mockup.png
+# image: /assets/img/o-seu-codigo-vai-virar-lixo/thumbnail.jpg
 ---
 
 
