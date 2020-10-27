@@ -3,7 +3,7 @@ title: O seu código vai virar lixo
 author: Daniel Belintani
 date: 2020-10-26 12:00:00 -0300
 categories: [Carreira]
-tags: [carreira, programação]
+tags: [carreira, programação, startup, cleancode]
 math: true
 # image: /assets/img/o-seu-codigo-vai-virar-lixo/thumbnail.png
 ---
