@@ -1,6 +1,6 @@
 ---
 title: Sobre
-
+type: about
 # Sobre
 # © 2020 Daniel Belintani
 ---
