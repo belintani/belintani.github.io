@@ -10,7 +10,9 @@
 -
   icon: 'fab fa-medium'
   url:  'https://belintani.medium.com/'
-
+-
+  icon: 'fab fa-dev'
+  url:  'https://dev.to/belintani'
 -
   type: github
   icon: 'fab fa-github'
