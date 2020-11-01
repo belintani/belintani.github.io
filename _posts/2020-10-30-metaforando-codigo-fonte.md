@@ -9,7 +9,7 @@ tags: [código, programação, comentario, metaforando]
 Atenção: Todas as piadas são referências ao [canal metaforando, do Vitor Santos](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw).
 ![Desktop View](/assets/img/posts/metaforando-codigo-fonte/ministerio-prog-avancada.png)
 
-Eu sou **Daniel Belintani**, perito não-profissional de micro expressões regulares.
+Eu sou [**Daniel Belintani**](https://belintani.com/), perito não-profissional de micro expressões regulares.
 
 ### “Código nunca mente. Já os comentários as vezes o fazem.”
 
