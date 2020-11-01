@@ -3,7 +3,7 @@ title: Metaforando, uma análise não-funcional
 author: Daniel Belintani
 date: 2020-11-01 10:30:00 -0300
 categories: [Programação, Metaforando]
-tags: [código, programação, comentario, metaforando]
+tags: [código, programação, comentário, metaforando]
 # image: /assets/img/posts/metaforando-codigo-fonte/thumbnail.png
 ---
 Atenção: Todas as piadas são referências ao [canal metaforando, do Vitor Santos](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw).
