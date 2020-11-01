@@ -22,7 +22,7 @@ Até o momento, a análise realmente prova de que os comentários mostram descri
 Seria aceitável que este código na sequência precise começar a verificar se o carrinho não está vazio:
 ![Desktop View](/assets/img/posts/metaforando-codigo-fonte/alteracao-1.png)
 
-Conforme o protocolo SPAMS, podemos observar que o descritivo da função "finaliza um carrinho, ou mostra mensagem de erro" já apresenta o seu primeiro comportamento **incongruente**. Fica evidente o não comentário direto, ao analisar que a função evita dizer: "eu retorno warning". Isso poder ser justificado por um simples esquecimento dos fatos pelo(a) programado(a).  
+Conforme o protocolo SPAMS, podemos observar que o descritivo da função "finaliza um carrinho, ou mostra mensagem de erro" já apresenta o seu primeiro comportamento **incongruente**. Fica evidente a inexistência de um comentário direto, onde  função evita dizer: "eu retorno warning". Isso poder ser justificado por um simples esquecimento dos fatos pelo(a) programado(a).  
 ![Desktop View](/assets/img/posts/metaforando-codigo-fonte/nao-responder-diretamente.png)
 
 Esta alteração no código também apresentou uma expressão de IDH (início de um histórico) na L9 seguido de um FDH (fim de histórico) na L14. O que de fato, não é um comentário bem-visto pela comunidade, sendo que há controladores de versão (ex: git) para exercer tal função.
