@@ -34,7 +34,7 @@ Os comentários são então removidos no PR (pull request), mas alguns meses dep
 ![Alt View](/assets/img/posts/metaforando-codigo-fonte/vergonha.png)
 Vemos então um comentário desesperado, guiado pelo sentimento de vergonha ao fazer uma gambiarra desnecessária. É comum que pessoas culpadas deixem comentários como rastro dos seus crimes, na crença de que ganhou um "passe-livre da prisão" ao justificar-se com um comentário.
 
-Outro comportamento de um comentário que tende a ser mentiroso, é o excesso de ~~tensao~~ textão, onde é adicionado um comentário longo para que ninguém leia. Este comentário, muito provavelmente não sofrerá a devida alteração quando algo mudar na regra de negócio.
+Outro comportamento de um comentário que tende a ser mentiroso, é o excesso de ~~tensão~~ textão, onde é adicionado um comentário longo para que ninguém leia. Este comentário, muito provavelmente não sofrerá a devida alteração quando algo mudar na regra de negócio.
 ![Alt View](/assets/img/posts/metaforando-codigo-fonte/textao.png)
 Desconfie também de comentários que forçam a sua [IDE](https://www.redhat.com/pt-br/topics/middleware/what-is-ide) (ferramenta de escrever código) a minimizar parte de códigos, isso pode ser considerado "afastamento e quebra de contato visual", muito utilizado por truques de mágicas.
 
