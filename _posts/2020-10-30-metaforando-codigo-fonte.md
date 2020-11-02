@@ -6,6 +6,8 @@ categories: [Programação, Metaforando]
 tags: [código, programação, comentário, metaforando]
 # image: /assets/img/posts/metaforando-codigo-fonte/thumbnail.png
 ---
+![Desktop View](/assets/img/posts/metaforando-codigo-fonte/ministerio-prog-avancada.gif)
+
 Atenção: Todas as piadas são referências ao [canal metaforando, do Vitor Santos](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw).
 
 Eu sou [**Daniel Belintani**](https://belintani.com/), perito não-profissional de micro expressões regulares.
@@ -40,4 +42,3 @@ Comentários podem ser mentirosos. Cuidado. Porém, existem comentários úteis:
 - Comentários de TODO. Nunca deixe de anotar parte do código que ficou faltando algo ou que pode ser refatorado. Basta adicionar "TODO: o que fazer" nas linhas de referência.
 
 Lembrando também que esse texto é um estudo, no qual venho na condição de perito dar uma visão, mas essa não é uma cartada final muito menos a verdade absoluta, é apenas uma análise.
-![Desktop View](/assets/img/posts/metaforando-codigo-fonte/ministerio-prog-avancada.gif)
