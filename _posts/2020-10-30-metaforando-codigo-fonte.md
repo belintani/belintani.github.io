@@ -7,7 +7,7 @@ tags: [código, programação, comentário, metaforando]
 # image: /assets/img/posts/metaforando-codigo-fonte/thumbnail.png
 ---
 Atenção: Todas as piadas são referências ao [canal metaforando, do Vitor Santos](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw).
-![Desktop View](/assets/img/posts/metaforando-codigo-fonte/ministerio-prog-avancada.png)
+![Desktop View](/assets/img/posts/metaforando-codigo-fonte/ministerio-prog-avancada.gif)
 
 Eu sou [**Daniel Belintani**](https://belintani.com/), perito não-profissional de micro expressões regulares.
 
