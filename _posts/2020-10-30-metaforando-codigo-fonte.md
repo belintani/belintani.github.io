@@ -4,6 +4,7 @@ author: Daniel Belintani
 date: 2020-11-01 10:30:00 -0300
 categories: [Programação, Metaforando]
 tags: [código, programação, comentário, metaforando]
+math: true
 # image: /assets/img/posts/metaforando-codigo-fonte/thumbnail.png
 ---
 ![Desktop View](/assets/img/posts/metaforando-codigo-fonte/ministerio-prog-avancada.gif)
