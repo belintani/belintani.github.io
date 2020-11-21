@@ -9,7 +9,7 @@ type: about
     <section class="section about" id="about">
         <div id="about-text">
             <p class="paragraph-text justify-text">
-                Amo acompanhar avanços tecnológicos, e acredito que desenvolver softwares é um dos caminhos mais próximos do que há de novo. Este é meu hobby também minha profissão. Tenho grande interesse em sistemas relacionados a segurança da informação e descentralização.
+                Amo acompanhar avanços tecnológicos, e acredito que desenvolver software é um dos caminhos mais próximos do que há de novo. Este é meu hobby também minha profissão. Tenho grande interesse em sistemas relacionados a segurança da informação e descentralização.
             </p>
             <p class="paragraph-text justify-text">
                 Por mais que programar no estilo "old-school", sem definir atribuições, e sozinho "fazer a coisa acontecer" me anime MUITO, a responsabilidade em construir um time forte a longo prazo, preparado para expandir e ser performático me força a adaptar-me aos modelos multidisciplinares e trabalhar com times grandes para construir códigos anti-frágeis em produtos que vêm mudando a vida de de milhares de pessoas.
