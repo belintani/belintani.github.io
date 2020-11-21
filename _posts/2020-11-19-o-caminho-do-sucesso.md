@@ -5,7 +5,7 @@ date: 2020-11-19 9:50:00 -0300
 categories: [Carreira]
 tags: [carreira, programação, sucesso]
 math: true
-image: /assets/img/posts/o-caminho/do-sucesso/thumbnail.jpg
+#image: /assets/img/posts/o-caminho-do-sucesso/thumbnail.jpg
 ---
 ### "Se você não sabe aonde ir, qualquer caminho serve." 
 
