@@ -10,7 +10,7 @@ math: true
 
 Sócrates sempre fez perguntas difíceis de serem respondidas: Quem é o homem? Por que existo? O que é o belo? O que é o justo?
 
-Mas convenhamos que atualmente as pessoas não gostam de quem faz perguntas. Na verdade, as pessoas gostam mesmo é de respostas prontas, porém quando as têm, relutam pela dificuldade de digerir certas verdades.
+Mas convenhamos que atualmente as pessoas não gostam de quem faz perguntas. Na verdade, elas gostam mesmo é de respostas prontas, porém quando as têm, relutam pela dificuldade de digerir certas verdades.
 
 Conto com seu bom senso em debatermos sobre algumas verdades, e saiba que, nega-las não as tornarão em inverdades.
 
