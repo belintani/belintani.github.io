@@ -1,5 +1,5 @@
 ---
-title: Verdades difíceis de engolir: programação de software
+title: Verdades difíceis de engolir → programação de software
 author: Daniel Belintani
 date: 2021-03-07 22:00:00 -0300
 categories: [Carreira]
@@ -7,7 +7,7 @@ tags: [carreira, programação, verdades]
 math: true
 #image: /assets/img/posts/verdades-dificeis-de-engolir/thumbnail.jpg
 ---
-### "Verdades difíceis de engolir: programação de software." 
+### "Verdades difíceis de engolir → programação de software." 
 
 Sócrates sempre fez perguntas difíceis de serem respondidas: Quem é o homem? Por que existo? O que é o belo? O que é o justo?
 
