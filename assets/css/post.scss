@@ -57,7 +57,7 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
     @include align-center;
   }
 
-  h3 {
+  h3, h2 {
     margin-top: 0.1rem;
   }
 }
