@@ -7,7 +7,6 @@ tags: [carreira, programação, verdades]
 math: true
 #image: /assets/img/posts/verdades-dificeis-de-engolir/thumbnail.jpg
 ---
-### "Verdades difíceis de engolir → programação de software." 
 
 Sócrates sempre fez perguntas difíceis de serem respondidas: Quem é o homem? Por que existo? O que é o belo? O que é o justo?
 
