@@ -10,21 +10,21 @@ math: true
 
 Sócrates sempre fez perguntas difíceis de serem respondidas: Quem é o homem? Por que existo? O que é o belo? O que é o justo?
 
-Mas convenhamos que atualmente as pessoas não gostam de quem faz perguntas. Na verdade, elas gostam mesmo é de respostas prontas, porém quando as têm, relutam pela dificuldade de digerir certas verdades.
+Mas convenhamos que atualmente as pessoas não gostam de         quem faz perguntas. Na verdade, elas gostam mesmo é de respostas prontas, porém quando as têm, relutam pela dificuldade de digerir certas verdades.
 
-Conto com seu bom senso em debatermos sobre algumas verdades, e saiba que, nega-las não as tornarão em inverdades.
+Conto com seu bom senso em debatermos sobre algumas verdades, e saiba que, negá-las não as tornarão em inverdades.
 
 
 ### **1. É preciso estudar programação todos os dias**.
 
-Procure trabalhar com pessoas que procuram falar sobre inovação diariamente, ou encontre um par de estudos. Leia mais sobre este tema neste meu texto: [Quem não inova, morre](https://belintani.com/posts/quem-nao-inova-morre/).
+Procure trabalhar com pessoas que procuram falar sobre inovação diariamente, ou encontre um par de estudos. Atuar em projetos da comunidade é um excelente meio de contribuir para o seu aprendizado de forma mais dinâmica. Leia mais sobre este tema neste meu texto: [Quem não inova, morre](https://belintani.com/posts/quem-nao-inova-morre/).
 
 
 ### **2. Existe sim, uma linguagem de programação melhor do que outras**.
 
 Certamente esta é a mais polêmica, e atrai muita discussão, mas não acredite nas bobeiras do seu amigo, algumas linguagens são sim, melhores do que outras. Empresas insistem na falácia de que isto não é verdade, apenas para que haja interesse de alguém para trabalhar com uma linguagem de programação horrível e arcaica, afinal, reconstruir tudo é muito caro. 
 
-Agora, dizer qual é a melhor linguagem não é uma resposta simples, até porque altera constantemente. Minha recomendação é olhar para algumas características: Frequência de atualização; tamanho da comunidade; contribuição de seu(s) criador(es); performance computacional; e simplicidade na sintaxe.
+Agora, dizer qual é a melhor linguagem não é uma resposta simples, até porque altera constantemente. Minha recomendação é olhar para algumas características: Contexto (o que você quer construir); Frequência de atualização; tamanho da comunidade; contribuição de seu(s) criador(es); performance computacional; e simplicidade na sintaxe.
 
 
 ### **3. A grande maioria dos programadores são muito, muito ruins**.
@@ -47,7 +47,7 @@ Recentemente vi programadores medíocres defendendo ser uma boa estratégia alte
 
 ### **7. Um verdadeiro bom programador só nasce depois de 10.000 horas programando**.
 
-O conceito é bem conhecido, onde diz que para se tornar expert em qualquer assunto, é necessário contato por dez mil horas. Como programador de carreira, impossível eu não concordar com isso. Programar não é só conhecer de front-end, ou só back-end, ou só mobile. Ter habilidade em codificar requer lógica, algoritmo, metodologia de estudo, e claro, desenvolvimento de um software por completo. Sou a favor das especialidades, mas defendo que, um verdadeiro programador precisa ser capaz de criar um software inteiro, mesmo que o seu forte seja só em uma vertical, o básico das outras é obrigatório.
+O conceito é bem conhecido, onde diz que para se tornar expert em qualquer assunto, é necessário contato por dez mil horas. Como programador de carreira, impossível eu não concordar com isso. Programar não é LER sobre. É experimentar, codificar front-end, back-end, mobile. Ter habilidade em codificar requer lógica, algoritmo, metodologia de estudo, e claro, desenvolvimento de um software por completo. Sou a favor das especialidades, mas defendo que, um verdadeiro programador precisa ser capaz de criar um software inteiro, mesmo que o seu forte seja só em uma vertical, o básico das outras é obrigatório.
 
 ### **8. Trocar de emprego o tempo todo mancha sim o seu currículo**.
 
@@ -59,4 +59,8 @@ Existe uma grande mentira, de que é possível codificar apenas sabendo o básic
 
 Mas não se precipite, não escreva códigos em português, ou todos vão lhe odiar. Não queremos códigos limitados a brasileiros, e por este motivo, o seu código deve ser escrito em inglês. O que fazer então? Corra e aprenda logo, está perdendo tempo.
 
+### **10. Bug é erro de desenvolvimento**.
+
+Tal como um cozinheiro errando no tempero, ou um escritor se perdendo na história de um personagem, **bugs** nos software é um reflexo direto de um erro no trabalho de construção do código fonte. Então sim, criar muitos bugs significa que algo está errado com o desenvolvedor, seja correria, falta de foco, ou simplesmente, desânimo com a tarefa assumida. Assim como a uma década atrás era inevitável o fim dos "analistas de sistemas" (criadores de diagramas que não sabiam programar), profissionais que apenas fazem "Quality Assurance (QA)" já estão desaparecendo, dando espaço, finalmente (e como antigamente), para programadores garantindo os seus entregáveis de forma estável.  
+ 
 ## Sei que não é fácil ler tais verdades, são difíceis de engolir mesmo.
