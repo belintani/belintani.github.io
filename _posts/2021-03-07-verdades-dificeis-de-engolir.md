@@ -27,9 +27,9 @@ Certamente esta é a mais polêmica, e atrai muita discussão, mas não acredite
 Agora, dizer qual é a melhor linguagem não é uma resposta simples, até porque altera constantemente. Minha recomendação é olhar para algumas características: Contexto (o que você quer construir); Frequência de atualização; tamanho da comunidade; contribuição de seu(s) criador(es); performance computacional; e simplicidade na sintaxe.
 
 
-### **3. A grande maioria dos programadores são muito, muito ruins**.
+### **3. A grande maioria dos programadores não são bons programadores**.
 
-Vivemos em um mercado aquecido onde não existe desemprego para quem iniciou uma faculdade na área, e a maioria esmagadora (uns 95%?) são péssimos no que fazem. As empresas sabem disso, mas ficam acuadas: o recrutador tem meta de contratação, o gestor tem meta de crescimento do time, e a diretoria prefere fazer vista grossa e fingir que possuem um time forte. 
+Vivemos em um mercado aquecido onde não existe desemprego para quem iniciou uma faculdade na área, e a maioria esmagadora (uns 95%?) parecem não ter aptidão para tal carreira. As empresas sabem disso, mas ficam acuadas: o recrutador tem meta de contratação, o gestor tem meta de crescimento do time, e a diretoria prefere fazer vista grossa e fingir que possuem um time forte. 
 
 Os poucos destaques são os profissionais incríveis, e recomendo a leitura do meu texto: [O caminho do sucesso é ser incrível](https://belintani.com/posts/o-caminho-do-sucesso/).
 
