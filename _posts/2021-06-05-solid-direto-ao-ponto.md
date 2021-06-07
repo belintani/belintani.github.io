@@ -98,7 +98,7 @@ public class ContaPoupanca : Rentavel, Depositavel {
 
 ````
 
-### **DIP — Dependency Inversion Principle**.
+### **D — Dependency Inversion Principle**.
 (Princípio da Inversão de Dependência)
 
 Encapsule qualquer classe externa dentro de uma classe própria, e passe este objeto para as classes que irão utilizar. Um injetor de dependência já garante a inversão de dependência.
