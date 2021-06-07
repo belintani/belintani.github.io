@@ -23,7 +23,8 @@ Ao separar a arquitetura do projeto em camadas, provavelmente as suas classes j�
 ### **O — Open-Closed Principle**.
 (Princípio Aberto-Fechado)
 
-Defina as ações do sistema em _interfaces_ e referencie-as nas funções ao invés de trabalhar com as classes originais.
+As classes devem estar abertas para extensão, mas fechadas para modificação.
+Uma forma simples de implementar, é definir as ações do sistema em _interfaces_ e referencie-as nas funções ao invés de trabalhar com as classes originais. 
 
 Exemplificando, considere `Enumerable` uma _interface_ para utilizar na função de `Count()` que avança para a função `Next()` até acabar a lista. Em nenhum momento um array de um objeto foi citado, e a função `Count()` trabalha exclusivamente com a _interface_.
 
