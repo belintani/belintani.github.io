@@ -30,7 +30,7 @@ Exemplificando, considere `Enumerable` uma _interface_ para utilizar na função
 ````c#
 public int Count(Enumerable e){
     int i = 0;
-    do{
+    do {
         i++;
     } while(e.Next());
 }
@@ -46,14 +46,13 @@ public class Eletronico {
     public void Ligar();
 }
 
-public class Televisão : Eletronico {
+public class Televisao : Eletronico {
     public bool suportaHDTV;
 }
 
 public class Laptop : Eletronico {
     public byte portasUSB;
 }
-
 
 public class SistemaIntegrado {
 
@@ -77,22 +76,22 @@ public interface Depositavel {
 }
 
 public interface Rentavel {
-    public function CalcularLucro();
+    public void CalcularLucro();
 }
 
-class ContaCorrente : Depositavel {
-    public function Depositar(int valor) {
+public class ContaCorrente : Depositavel {
+    public void Depositar(int valor) {
         // depositar em conta corrente
     }
 }
 
 public class ContaPoupanca : Rentavel, Depositavel {
 
-    public function CalcularLucro() {
+    public void CalcularLucro() {
         // calculo base da poupanca
     }
 
-    public function Depositar(int valor) {
+    public void Depositar(int valor) {
         // depositar em conta poupanca
     }
 } 
