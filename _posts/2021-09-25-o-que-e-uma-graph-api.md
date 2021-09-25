@@ -8,7 +8,7 @@ math: true
 # image: /assets/img/posts/o-que-e-uma-graph-api/thumbnail.png
 ---
 
-Uma Graph API é uma [REST API](https://www.openapis.org/), porém seguindo uma modelagem de dados entre *nodes* e *edges*, permitindo executar a chamada de várias entidades de forma encadeada, com um unico *request*. Apesar um pouco diferente, isso não significa que todas as especificações anotadas na [OpenAPI](https://spec.openapis.org/oas/latest.html) devam ser ignoradas, pelo contrário, segue fielmente as especificações de cada verbo http, por exemplo.
+Uma Graph API é uma [REST API](https://www.openapis.org/), porém, seguindo uma modelagem de dados entre *nodes* e *edges*, permitindo executar a chamada de várias entidades de forma encadeada, com um unico *request*. Apesar um pouco diferente, isso não significa que todas as especificações anotadas na [OpenAPI](https://spec.openapis.org/oas/latest.html) devam ser ignoradas, pelo contrário, segue fielmente as especificações de cada verbo http, por exemplo.
 
 Não é raro a confusão entre o conceito de uma GraphAPI com o uso de [GraphQL](https://graphql.org/learn/), esta segunda sim, bem diferente do convencional, só disponibiliza um unico acesso GET e outro POST, recebendo uma consulta na semântica da graphql.
 
