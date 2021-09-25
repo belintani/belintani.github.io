@@ -20,14 +20,14 @@ Na composição da Graph API temos:
 
 ### Object ID's
 
-Nodes por serem objetos individuais, obrigatoriamente cada um possui um ID único no sistema. Assim sendo, para obter informações de um objeto, basta consultar diretamente por seu ID. Não precisa especificar seu tipo. 
+Nodes por serem objetos individuais, obrigatoriamente cada um possui um ID único no sistema. Assim sendo, para obter informações de um objeto, basta consultar diretamente por seu ID. Não precisa especificar seu tipo.
 
 ```javascript
 'HOST/{node-id}'
 ```
 ### Fields
 
-Para obter algum dado além do ID, é necessário especificar explicitamente em um parametro de consulta chamado *fields*. 
+Para obter algum dado além do ID, é necessário especificar explicitamente em um parametro de consulta chamado *fields*.
 
 ```javascript
 'HOST/{node-id}?fields={var1},{var2}'
@@ -69,6 +69,6 @@ Por isso, uma GraphAPI possui o grande trunfo: a busca encadeada.
 '.../v11.0/me/adaccounts?fields=id,name,spend_cap,campaigns{id,name,objective,effective_status}'
 ```
 
-Se você pensou "parece mágica", bem vindo ao clube! 
+Se você pensou "parece mágica", bem vindo ao clube!
 
 Esta mesma explosão me ocorreu em 2013, quando comecei a trabalhar com as [Graph API's do Facebook](https://developers.facebook.com/docs/graph-api/overview)
