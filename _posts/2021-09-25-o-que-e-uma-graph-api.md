@@ -5,7 +5,6 @@ date: 2021-09-25 17:00:00 -0300
 categories: [Direto ao ponto]
 tags: [programação, graph-api, direto-ao-ponto]
 math: true
-# image: /assets/img/posts/o-que-e-uma-graph-api/thumbnail.png
 ---
 
 Uma Graph API é uma [REST API](https://www.openapis.org/), porém, seguindo uma modelagem de dados entre *nodes* e *edges*, permitindo executar a chamada de várias entidades de forma encadeada, com um unico *request*. Apesar um pouco diferente, isso não significa que todas as especificações anotadas na [OpenAPI](https://spec.openapis.org/oas/latest.html) devam ser ignoradas, pelo contrário, segue fielmente as especificações de cada verbo http, por exemplo.
