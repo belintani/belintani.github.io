@@ -23,14 +23,14 @@ Na composição da Graph API temos:
 
 Nodes por serem objetos individuais, obrigatoriamente cada um possui um ID único no sistema. Assim sendo, para obter informações de um objeto, basta consultar diretamente por seu ID. Não precisa especificar seu tipo. 
 
-```jsx
+```javascript
 'HOST/{node-id}'
 ```
 ### Fields
 
 Para obter algum dado além do ID, é necessário especificar explicitamente em um parametro de consulta chamado *fields*. 
 
-```jsx
+```javascript
 'HOST/{node-id}?fields={var1},{var2}'
 ```
 
@@ -38,7 +38,7 @@ Para obter algum dado além do ID, é necessário especificar explicitamente em 
 
 Os relacionamentos entre objetos são encontrados pelas *edges*. Por padrão, elas retornam apenas ID's, mas assim como é para os *nodes*, o parametro *fields* pode ser utilizado para retornar propriedades específicas em cada nível.
 
-```jsx
+```javascript
 'HOST/{node-id}/{edge}?fields={var1},{var2}...'
 ```
 
@@ -48,7 +48,7 @@ Para exemplificar, vamos olhar um exemplo um pouco complexo de uma consulta real
 
 Obter as contas de anúncio do usuário corrente, com nome e a trava de gastos.
 
-```jsx
+```javascript
 'https://graph.facebook.com/v11.0/me/adaccounts?fields=id,name,spend_cap'
 ```
 
@@ -56,7 +56,7 @@ Obter as contas de anúncio do usuário corrente, com nome e a trava de gastos.
 
 Para cada conta de anúncio, é possível executar outra chamada para encontrar alguns dados das campanhas dentro das contas.
 
-```jsx
+```javascript
 '.../v11.0/{adaccount-id}/campaigns?fields=id,name,objective,effective_status'
 ```
 
@@ -66,7 +66,7 @@ Nos exemplo acima, se o usuário possuir 30 contas de anúncio, a chamada para b
 
 Por isso, uma GraphAPI possui o grande trunfo: a busca encadeada.
 
-```jsx
+```javascript
 '.../v11.0/me/adaccounts?fields=id,name,spend_cap,campaigns{id,name,objective,effective_status}'
 ```
 
