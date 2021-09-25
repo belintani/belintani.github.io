@@ -9,12 +9,12 @@
 -
   icon: 'fab fa-dev'
   url:  'https://dev.to/belintani'
--
-  type: github
-  icon: 'fab fa-github'
--
-  type: twitter
-  icon: 'fab fa-twitter'
+#-
+#  type: github
+#icon: 'fab fa-github'
+#-
+#type: twitter
+#icon: 'fab fa-twitter'
 #-
 #  type: email
 #  icon: 'fas fa-envelope'
