@@ -2,7 +2,7 @@
 title: SOLID, direto ao ponto
 author: Daniel Belintani
 date: 2021-06-05 11:00:00 -0300
-categories: [Direto ao ponto, programação]
+categories: [Programação, Direto ao ponto]
 tags: [programação, orientacao-objeto, direto-ao-ponto]
 math: true
 # image: /assets/img/posts/solid-direto-ao-ponto/thumbnail.png
