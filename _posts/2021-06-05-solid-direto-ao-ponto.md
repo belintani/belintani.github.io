@@ -2,21 +2,21 @@
 title: SOLID, direto ao ponto
 author: Daniel Belintani
 date: 2021-06-05 11:00:00 -0300
-categories: [Direto ao ponto]
+categories: [Direto ao ponto, programação]
 tags: [programação, orientacao-objeto, direto-ao-ponto]
 math: true
 # image: /assets/img/posts/solid-direto-ao-ponto/thumbnail.png
 ---
 
-##### A saga de “direto ao ponto” apresenta alguns textos rápidos para desmistificar assuntos simples. 
+##### A saga de “direto ao ponto” apresenta alguns textos rápidos para desmistificar assuntos simples.
 
 ## S O L I D
 Ao trabalhar efetivamente com Programação Orientada a Objetos (POO), provavelmente os 5 princípios SOLID já estão presentes no dia a dia, mesmo que de forma não intencional.
 
-### **S — Single Responsiblity Principle** 
+### **S — Single Responsiblity Principle**
 (Princípio da responsabilidade única)
 
-Ao separar a arquitetura do projeto em camadas, provavelmente as suas classes já são quebradas, mantendo-as com uma responsabilidade única. 
+Ao separar a arquitetura do projeto em camadas, provavelmente as suas classes já são quebradas, mantendo-as com uma responsabilidade única.
 
 ![Desktop View](/assets/img/posts/solid-direto-ao-ponto/store-splitted.png)
 
@@ -24,7 +24,7 @@ Ao separar a arquitetura do projeto em camadas, provavelmente as suas classes j�
 (Princípio Aberto-Fechado)
 
 As classes devem estar abertas para extensão, mas fechadas para modificação.
-Uma forma simples de implementar, é definir as ações do sistema em _interfaces_ e referencie-as nas funções ao invés de trabalhar com as classes originais. 
+Uma forma simples de implementar, é definir as ações do sistema em _interfaces_ e referencie-as nas funções ao invés de trabalhar com as classes originais.
 
 Exemplificando, considere `Enumerable` uma _interface_ para utilizar na função de `Count()` que avança para a função `Next()` até acabar a lista. Em nenhum momento um array de um objeto foi citado, e a função `Count()` trabalha exclusivamente com a _interface_.
 
@@ -95,7 +95,7 @@ public class ContaPoupanca : Rentavel, Depositavel {
     public void Depositar(int valor) {
         // depositar em conta poupanca
     }
-} 
+}
 
 ````
 

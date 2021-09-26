@@ -2,7 +2,7 @@
 title: O que é uma Graph API
 author: Daniel Belintani
 date: 2021-09-25 17:00:00 -0300
-categories: [Direto ao ponto]
+categories: [Direto ao ponto, programação]
 tags: [programação, graph-api, direto-ao-ponto]
 math: true
 ---

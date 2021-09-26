@@ -2,7 +2,7 @@
 title: Metaforando, uma análise não-funcional
 author: Daniel Belintani
 date: 2020-11-01 10:30:00 -0300
-categories: [Programação, Metaforando]
+categories: [Programação]
 tags: [código, programação, comentário, metaforando]
 math: true
 #image: /assets/img/posts/metaforando-codigo-fonte/thumbnail.gif
@@ -24,7 +24,7 @@ Até o momento, a análise realmente prova de que os comentários mostram descri
 Seria aceitável que este código na sequência precise começar a verificar se o carrinho não está vazio:
 ![Alt View](/assets/img/posts/metaforando-codigo-fonte/alteracao-1.png)
 
-Conforme o protocolo SPAMS, podemos observar que o descritivo da função "finaliza um carrinho, ou mostra mensagem de erro" já apresenta o seu primeiro comportamento **incongruente**. Fica evidente a inexistência de um comentário direto, onde  função evita dizer: "eu retorno warning". Isso poder ser justificado por um simples esquecimento dos fatos pelo(a) programador(a).  
+Conforme o protocolo SPAMS, podemos observar que o descritivo da função "finaliza um carrinho, ou mostra mensagem de erro" já apresenta o seu primeiro comportamento **incongruente**. Fica evidente a inexistência de um comentário direto, onde  função evita dizer: "eu retorno warning". Isso poder ser justificado por um simples esquecimento dos fatos pelo(a) programador(a).
 ![Alt View](/assets/img/posts/metaforando-codigo-fonte/nao-responder-diretamente.png)
 
 Esta alteração no código também apresentou uma expressão de IDH (início de um histórico) na L9 seguido de um FDH (fim de histórico) na L14. O que de fato, não é um comentário bem-visto pela comunidade, sendo que há controladores de versão (ex: git) para exercer tal função.
