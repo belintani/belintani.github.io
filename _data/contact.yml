@@ -9,9 +9,9 @@
 -
   icon: 'fab fa-dev'
   url:  'https://dev.to/belintani'
-#-
-#  type: github
-#icon: 'fab fa-github'
+-
+  icon: 'fab fa-github'
+  url:  'https://github.com/belintani
 #-
 #type: twitter
 #icon: 'fab fa-twitter'
