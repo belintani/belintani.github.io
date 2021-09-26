@@ -20,14 +20,14 @@ Na composição da Graph API temos:
 
 ### Object ID's
 
-Nodes por serem objetos individuais, obrigatoriamente cada um possui um ID único no sistema. Assim sendo, para obter informações de um objeto, basta consultar diretamente por seu ID. Não precisa especificar seu tipo.
+Os _nodes_, por representarem objetos individuais, obrigatoriamente possuem, cada um, a referência para um ID único no sistema inteiro. Assim sendo, para obter informações de um objeto, basta consultar diretamente pelo seu ID. Não precisa especificar o seu tipo na chamada.
 
 ```javascript
 'HOST/{node-id}'
 ```
 ### Fields
 
-Para obter algum dado além do ID, é necessário especificar explicitamente em um parametro de consulta chamado *fields*.
+Para obter outros dados do objeto além do ID, é necessário especificar explicitamente na consulta, pelo parâmetro chamado _fields_.
 
 ```javascript
 'HOST/{node-id}?fields={var1},{var2}'
@@ -35,7 +35,7 @@ Para obter algum dado além do ID, é necessário especificar explicitamente em 
 
 ### Edges
 
-Os relacionamentos entre objetos são encontrados pelas *edges*. Por padrão, elas retornam apenas ID's, mas assim como é para os *nodes*, o parametro *fields* pode ser utilizado para retornar propriedades específicas em cada nível.
+Os relacionamentos entre objetos são encontrados pelas _edges_. Por padrão, elas retornam apenas ID's, mas assim como é para os _nodes_, o parâmetro _fields_ pode ser utilizado para retornar propriedades específicas em cada nível.
 
 ```javascript
 'HOST/{node-id}/{edge}?fields={var1},{var2}...'
@@ -43,7 +43,7 @@ Os relacionamentos entre objetos são encontrados pelas *edges*. Por padrão, el
 
 ### Exemplo → Facebook
 
-Para exemplificar, vamos olhar um exemplo um pouco complexo de uma consulta real do Facebook, que trabalha com GraphAPIs.
+Para exemplificar, apresento abaixo alguns exemplos de consultas reais do Facebook, que trabalha em suas chamaradas REST o conceito de Graph API.
 
 Obter as contas de anúncio do usuário corrente, com nome e a trava de gastos.
 
@@ -61,14 +61,14 @@ Para cada conta de anúncio, é possível executar outra chamada para encontrar 
 
 "{adaccount-id}" é o ***node***, "campaigns" é a ***edge***, e "id,name,objective,effective_status" são os ***fields***.
 
-Nos exemplo acima, se o usuário possuir 30 contas de anúncio, a chamada para buscas de campanhas deverá ser invocada 30x.
+No exemplo acima, se o usuário possuir 30 contas de anúncio, a chamada para buscas de campanhas deverá ser invocada 30x.
 
-Por isso, uma GraphAPI possui o grande trunfo: a busca encadeada.
+Por isso, uma Graph API possui o grande trunfo: a busca encadeada.
 
 ```javascript
 '.../v11.0/me/adaccounts?fields=id,name,spend_cap,campaigns{id,name,objective,effective_status}'
 ```
 
-Se você pensou "parece mágica", bem vindo ao clube!
+Se você pensou "parece mágica", bem-vindo ao clube!
 
 Esta mesma explosão me ocorreu em 2013, quando comecei a trabalhar com as [Graph API's do Facebook](https://developers.facebook.com/docs/graph-api/overview)
