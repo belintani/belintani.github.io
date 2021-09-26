@@ -23,14 +23,14 @@ Na composição da Graph API temos:
 Os _nodes_, por representarem objetos individuais, obrigatoriamente possuem, cada um, a referência para um ID único no sistema inteiro. Assim sendo, para obter informações de um objeto, basta consultar diretamente pelo seu ID. Não precisa especificar o seu tipo na chamada.
 
 ```javascript
-'HOST/{node-id}'
+GET 'HOST/{node-id}'
 ```
 ### Fields
 
 Para obter outros dados do objeto além do ID, é necessário especificar explicitamente na consulta, pelo parâmetro chamado _fields_.
 
 ```javascript
-'HOST/{node-id}?fields={var1},{var2}'
+GET 'HOST/{node-id}?fields={var1},{var2}'
 ```
 
 ### Edges
@@ -38,7 +38,7 @@ Para obter outros dados do objeto além do ID, é necessário especificar explic
 Os relacionamentos entre objetos são encontrados pelas _edges_. Por padrão, elas retornam apenas ID's, mas assim como é para os _nodes_, o parâmetro _fields_ pode ser utilizado para retornar propriedades específicas em cada nível.
 
 ```javascript
-'HOST/{node-id}/{edge}?fields={var1},{var2}...'
+GET 'HOST/{node-id}/{edge}?fields={var1},{var2}...'
 ```
 
 ### Exemplo → Facebook
@@ -48,7 +48,7 @@ Para exemplificar, apresento abaixo alguns exemplos de consultas reais do Facebo
 Obter as contas de anúncio do usuário corrente, com nome e a trava de gastos.
 
 ```javascript
-'https://graph.facebook.com/v11.0/me/adaccounts?fields=id,name,spend_cap'
+GET 'https://graph.facebook.com/v11.0/me/adaccounts?fields=id,name,spend_cap'
 ```
 
 "me" é o ***node***, "adaccounts" é a ***edge*** , e "id,name,spend_cap" são os ***fields***.
@@ -56,7 +56,7 @@ Obter as contas de anúncio do usuário corrente, com nome e a trava de gastos.
 Para cada conta de anúncio, é possível executar outra chamada para encontrar alguns dados das campanhas dentro das contas.
 
 ```javascript
-'.../v11.0/{adaccount-id}/campaigns?fields=id,name,objective,effective_status'
+GET '.../v11.0/{adaccount-id}/campaigns?fields=id,name,objective,effective_status'
 ```
 
 "{adaccount-id}" é o ***node***, "campaigns" é a ***edge***, e "id,name,objective,effective_status" são os ***fields***.
@@ -66,7 +66,7 @@ No exemplo acima, se o usuário possuir 30 contas de anúncio, a chamada para bu
 Por isso, uma Graph API possui o grande trunfo: a busca encadeada.
 
 ```javascript
-'.../v11.0/me/adaccounts?fields=id,name,spend_cap,campaigns{id,name,objective,effective_status}'
+GET '.../v11.0/me/adaccounts?fields=id,name,spend_cap,campaigns{id,name,objective,effective_status}'
 ```
 
 Se você pensou "parece mágica", bem-vindo ao clube!
