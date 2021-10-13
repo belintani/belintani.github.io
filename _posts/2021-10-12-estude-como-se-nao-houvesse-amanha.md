@@ -11,7 +11,7 @@ Para o filósofo francês [Montaigne](https://www.todamateria.com.br/michel-de-m
 
 Conhecemos a frase de Gandhi, "Viva como se fosse morrer amanhã", que é reflexiva e vastamente utilizada para um defender um [Carpe diem](https://www.significados.com.br/carpe-diem/) eterno. Todavia, a mensagem por completo é:
 
-> "Viva como se fosse morrer amanhã. PRENDA como se fosse viver para sempre."
+> "Viva como se fosse morrer amanhã. APRENDA como se fosse viver para sempre."
 
 Inspirado nestes dois históricos nomes, digo-lhes.
 
