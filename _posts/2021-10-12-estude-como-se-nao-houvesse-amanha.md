@@ -15,7 +15,7 @@ Conhecemos a frase de Gandhi, "Viva como se fosse morrer amanhã", que é reflex
 
 Inspirado nestes dois históricos nomes, digo-lhes.
 
-###Estude como se não houvesse amanhã.
+## Estude como se não houvesse amanhã.
 
 Correndo o risco de parecer redundante, reforço o primeiro ponto destacado no meu outro texto, ["O caminho do sucesso"](https://belintani.com/posts/o-caminho-do-sucesso/) agora com um pouco mais de profundidade sobre **fazer dos estudos um _hobby_**. Isso levará-lhe, naturalmente, a se tornar um excelente profissional na área de desenvolvimento de _software_.
 
