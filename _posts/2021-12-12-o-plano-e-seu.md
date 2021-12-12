@@ -3,7 +3,7 @@ title: O plano é seu, assuma os riscos e colha os frutos
 author: Daniel Belintani
 date: 2021-12-12 20:00:00 -0300
 categories: [Carreira]
-tags: [carreira, sucesso, estudos]
+tags: [carreira, sucesso]
 math: true
 ---
 
