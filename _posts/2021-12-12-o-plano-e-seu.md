@@ -27,9 +27,11 @@ Discordo destas definições. Contrariando a maioria, em PDIs nos quais oriento,
 Não escolhemos quais são as pessoas ao nosso redor, mas influenciamos aqueles que estão próximos a nós. Tendencialmente, se trabalharmos nos pontos fracos das pessoas, criamos uma linha da mediocridade, e igualamos todos a ela, e deixamos de explorar a aptidão de cada pessoa.
 
 ![Alt View](/assets/img/posts/o-plano-e-seu/img2.png)
+
 Ao elaborar um PDI com foco na aptidão, revertemos e geramos os diferenciais no mercado, e buscamos extrapolar as possibilidades já conhecidas.
 
 ![Alt View](/assets/img/posts/o-plano-e-seu/img3.png)
+
 Desta forma, conseguimos quebrar limites e criar os grandes profissionais diferenciados, dedicando exponencialmente mais forças onde encontramos resultados. No exemplo acima, dos pontos fracos, não evoluímos nenhum ponto de "criatividade", e investimos muito pouco em "comunicação", apenas o suficiente para alavancar os pontos de "comprometimento" e "know-how técnico", estes sim, dedicados e hoje considerados diferenciais desta pessoa em específico.
 
 Todavia, ter um PDI bem elaborado não é tudo. É preciso disciplina para seguir o seu plano! Neste "novo mundo corporativo", com "internet das coisas", "metaverso", e uma infinidade de distrações, vemos as pessoas fazendo aquilo que gostam, e não aquilo que precisam.
