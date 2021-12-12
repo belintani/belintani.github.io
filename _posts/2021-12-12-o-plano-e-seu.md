@@ -14,7 +14,7 @@ A prática de trabalhar o solo para obter uma colheita é quase tão antiga quan
 
 A analogia aos provérbios vem do pressuposto de que um Plano de Desenvolvimento Individual (PDI) sempre será da própria pessoa, e de mais ninguém. Assim, inevitavelmente, colhemos aquilo que plantamos, e só irá evoluir na carreira aquele que efetivamente planejar (semear), e posteriormente se doar na execução.
 
-## O plano é seu, assuma os riscos e colha os frutos
+## Como vai o seu PDI?
 
 Materializa-se um PDI pelo processo de organizar as ações que irão levar o indivíduo a atingir um objetivo e desenvolver-se. No ambiente corporativo, procuramos principalmente, mas não exclusivamente, focar na evolução profissional.
 
