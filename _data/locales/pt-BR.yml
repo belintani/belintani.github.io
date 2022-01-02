@@ -76,7 +76,7 @@ post:
   pageview_measure: visualizações
   read_time:
     unit: min
-    prompt: ler
+    prompt: leitura
   relate_posts: Leitura Adicional
   share: Compartilhar
   button:
