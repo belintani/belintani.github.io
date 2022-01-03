@@ -14,9 +14,9 @@ Com todo o seu charme, essa é daquelas expressões em inglês que arrepia a esp
 
 CQRS é a abreviação de _Command and Query Responsibility Segregation_.\
 
-O que todos querem dizer com isso?
+O que isso quer dizer?
 
-#### Não misture "leitura dos dados" com "gravação dos dados", ok?
+####**Não misture "leitura dos dados" com "gravação dos dados"!**
 
 ### Quando usar
 **Sempre que possível**. O "papo" de _over-engineering_ não se encaixa tão bem aqui, uma vez que não é tão complexo assim.\
