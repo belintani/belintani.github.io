@@ -16,7 +16,7 @@ CQRS é a abreviação de _Command and Query Responsibility Segregation_.\
 
 O que isso quer dizer?
 
-####**Não misture "leitura dos dados" com "gravação dos dados"!**
+> #### Não misture "leitura dos dados" com "gravação dos dados"!
 
 ### Quando usar
 **Sempre que possível**. O "papo" de _over-engineering_ não se encaixa tão bem aqui, uma vez que não é tão complexo assim.\
