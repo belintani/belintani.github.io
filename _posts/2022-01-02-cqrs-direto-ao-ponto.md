@@ -23,7 +23,7 @@ O que isso quer dizer?
 Claro, sem hipocrisia, numa distribuição orientada à _microservices_, existe chance de ser um trabalho chato e menos justificável.
 
 ### Como implementar
-Existe duas técnicas, no qual vi ser as mais comuns:
+Existem duas técnicas, no qual vi ser as mais comuns:
 
 1 - Criando classes distintas, separando propriedades editáveis de dados disponíveis para consulta.
 
