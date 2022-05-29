@@ -23,7 +23,7 @@ Por muitas vezes a solução é óbvia, mas não estamos neurologicamente condic
 
 O simples ato de se comunicar verbalmente, por exemplo, é algo que consideramos "automático". Porém, comunicar-se fluentemente não é simples, o excesso de domínio que temos em falar, faz parecer fácil. Isso ocorre em mais campos de estudo. Aquilo que mais temos certeza não requer grande esforço para tomada de decisão. 
  
-Analisar este comportamento é inclusive um dos fundamentos que classificam o polígrafo como uma "ultrapassada pseudociência". Um bom mentiroso pode ter muito domínio em mentir, assim como um inocente pode ter pouco domínio em narrar uma situação interrogatória.
+Analisar este comportamento é inclusive um dos fundamentos que classificam o polígrafo como uma "ultrapassada pseudociência". Um bom mentiroso pode ter muito domínio em mentir, assim como um inocente pode ter pouco domínio em narrar numa situação de interrogatório.
  
 No ambiente corporativo, se você tem afinidade em determinado tema, **confiar naquilo que parece "óbvio" pode lhe trazer muito ganho de velocidade**. Questionar-se a cada passo, e sempre procurar por referência em dados - por mais que traga uma resposta final mais fundamentada e assertiva - pode fazê-lo deixar de economizar tempo, que ainda é o verdadeiro valor almejado. 
 
