@@ -14,12 +14,12 @@ Diferentemente do sr. Parker, aqueles sem poderes podem no máximo explorar melh
 
 Já é fato que, organizações que tomam decisões baseadas em dados estão melhores, comparado às empresas cujas decisões são orientadas apenas por instinto. 
 
-Mas como citei ["neste texto"](https://belintani.com/posts/o-caminho-do-sucesso/), "dados são o novo petróleo", porém, nada ultrapassará o bem mais valioso, o **TEMPO**." Isso quer dizer que, trabalhar "data driven" é incrível, desde que, isso esteja trazendo ganho de eficiência, e que estamos **economizando tempo**.
+Mas como citei [neste texto](https://belintani.com/posts/o-caminho-do-sucesso/), "dados são o novo petróleo", porém, nada ultrapassará o bem mais valioso, o **TEMPO**." Isso quer dizer que, trabalhar "data driven" é incrível, desde que, isso esteja trazendo ganho de eficiência, e que estamos **economizando tempo**.
 
 
 Enquanto os dados não trazem conclusÕes para todas as decisões, é possível explorar o máximo da intuição das pessoas mais experientes. Se é pra errar, que seja em algo inédito!
 
-Por muitas vezes a solução é óbvia, mas não estamos neurologicamente condicionados a recomeçar, limpar o campo de visão, e procurar o que pode ser **removido**, nós insistimos apenas em adicionar mais e mais conteúdo. No ["artigo apresentado na capa da revista Nature"](https://www.nature.com/articles/s41586-021-03380-y) em abril de 2021, pesquisadores da Universidade da Virgínia explicam por que as pessoas raramente olham para uma situação – em todos os tipos de contextos – e pensam em remover algo como solução. Em vez disso, quase sempre adicionamos algum elemento, ajudando ou não. 
+Por muitas vezes a solução é óbvia, mas não estamos neurologicamente condicionados a recomeçar, limpar o campo de visão, e procurar o que pode ser **removido**, nós insistimos apenas em adicionar mais e mais conteúdo. No [artigo apresentado na capa da revista Nature](https://www.nature.com/articles/s41586-021-03380-y) em abril de 2021, pesquisadores da Universidade da Virgínia explicam por que as pessoas raramente olham para uma situação – em todos os tipos de contextos – e pensam em remover algo como solução. Em vez disso, quase sempre adicionamos algum elemento, ajudando ou não. 
 
 O simples ato de se comunicar verbalmente, por exemplo, é algo que consideramos "automático". Porém, comunicar-se fluentemente não é simples, o excesso de domínio que temos em falar, faz parecer fácil. Isso ocorre em mais campos de estudo. Aquilo que mais temos certeza não requer grande esforço para tomada de decisão. 
  
