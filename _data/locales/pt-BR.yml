@@ -65,30 +65,25 @@ not_found:
 
 post:
   written_by: Por
-  posted: Publicado
+  posted: Postado em
   updated: Atualizado
-  timeago:
-    day: dias atrás
-    hour: horas atrás
-    minute: minutos atrás
-    just_now: agora mesmo
   words: palavras
   pageview_measure: visualizações
   read_time:
     unit: min
-    prompt: leitura
-  relate_posts: Leitura Adicional
+    prompt: " de leitura"
+  relate_posts: Leia também
   share: Compartilhar
   button:
-    next: Mais Recente
-    previous: Mais Antiga
+    next: Próximo
+    previous: Anterior
     copy_code:
       succeed: Copiado!
     share_link:
-      title: Copiar link
+      title: Copie o link
       succeed: Link copiado com sucesso!
   # pinned prompt of posts list on homepage
-  pin_prompt: Fixada
+  pin_prompt: Fixado
 
 # categories page
 categories:
