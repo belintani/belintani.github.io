@@ -25,6 +25,6 @@ O simples ato de se comunicar verbalmente, por exemplo, é algo que consideramos
  
 Analisar este comportamento é inclusive um dos fundamentos que classificam o polígrafo como uma "ultrapassada pseudociência". Um bom mentiroso pode ter muito domínio em mentir, assim como um inocente pode ter pouco domínio em narrar uma situação interrogatória.
  
-No ambiente corporativo, se você tem afinidade em determinado tema, **confiar naquilo que parece "óbvio" pode lhe trazer muito ganho de velocidade**. Questionar-se todas a cada passo, e sempre procurar por referência em dados - por mais que traga uma resposta final mais fundamentada e assertiva - pode fazê-lo deixar economizar tempo, que ainda é o verdadeiro valor almejado. 
+No ambiente corporativo, se você tem afinidade em determinado tema, **confiar naquilo que parece "óbvio" pode lhe trazer muito ganho de velocidade**. Questionar-se todas a cada passo, e sempre procurar por referência em dados - por mais que traga uma resposta final mais fundamentada e assertiva - pode fazê-lo deixar de economizar tempo, que ainda é o verdadeiro valor almejado. 
 
 Por isso o mais sábio, na minha visão, é uma mescla, atuando empiricamente para itens de alto conhecimento, e deixando o campo de pesquisa para itens de baixo domínio.
