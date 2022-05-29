@@ -14,7 +14,7 @@ Diferentemente do sr. Parker, aqueles sem poderes podem no máximo explorar melh
 
 Já é fato que, organizações que tomam decisões baseadas em dados estão melhores, comparado às empresas cujas decisões são orientadas apenas por instinto. 
 
-Mas como citei [neste texto](https://belintani.com/posts/o-caminho-do-sucesso/), "dados são o novo petróleo", porém, nada ultrapassará o bem mais valioso, o **TEMPO**." Isso quer dizer que, trabalhar "data driven" é incrível, desde que, isso esteja trazendo ganho de eficiência, e que estamos **economizando tempo**.
+Mas como citei [neste texto](https://belintani.com/posts/o-caminho-do-sucesso/), "dados são o novo petróleo", porém, nada ultrapassará o bem mais valioso, o **TEMPO**. Isso quer dizer que, trabalhar "data driven" é incrível, desde que, isso esteja trazendo ganho de eficiência, e que estamos **economizando tempo**.
 
 
 Enquanto os dados não trazem conclusÕes para todas as decisões, é possível explorar o máximo da intuição das pessoas mais experientes. Se é pra errar, que seja em algo inédito!
