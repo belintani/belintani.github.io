@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://cdn.jsdelivr.net/gh/belintani/belintani.github.io@07452f847a9b908fbf1f4beb5081f087ce3dc5e5'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/avatar.png'
+avatar: 'https://raw.githubusercontent.com/belintani/belintani.github.io/master/assets/img/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
