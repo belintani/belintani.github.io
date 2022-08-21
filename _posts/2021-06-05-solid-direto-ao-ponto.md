@@ -43,26 +43,49 @@ public int Count(Enumerable e){
 Quando uma classe estende outra, trabalhe a classe de mais alto nível nas funções. Assim sendo, se existir a classe `Eletronico`, e as classes filhas `Televisão` e `Laptop`, sempre dê preferência por trabalhar funções que manipulam `Eletronico`.
 
 ````c#
-public class Eletronico {
-    public void Ligar();
-}
-
-public class Televisao : Eletronico {
-    public bool suportaHDTV;
-}
-
-public class Laptop : Eletronico {
-    public byte portasUSB;
-}
-
-public class SistemaIntegrado {
-
-    public void LigarSistemas(Eletronico[] es) {
-        foreach(e in es) {
-            e.Ligar();
+    public abstract class Eletronico
+    {
+        public bool ON;
+        public virtual void Ligar() {
+            ON = true;
         }
     }
-}
+
+    public class Televisao : Eletronico
+    {
+        public bool suportaHDTV;
+
+        public override void Ligar()
+        {
+            base.Ligar();
+            if (suportaHDTV){
+                //tenta conectar antena
+            }
+        }
+    }
+
+    public class Laptop : Eletronico
+    {
+        public byte portasUSB;
+    }
+
+    public class SistemaIntegrado
+    {
+        Televisao televisao;
+        Laptop laptop;
+
+        public SistemaIntegrado()
+        {
+            televisao = new Televisao() { suportaHDTV = true };
+            laptop = new Laptop() { portasUSB = 2 };
+        }
+
+        public void LigarSistemas()
+        {
+            televisao.Ligar();
+            laptop.Ligar();
+        }
+    }
 ````
 
 ### **I — Interface Segregation Principle**.
