@@ -27,8 +27,7 @@
   };
 
   function blink(o,c,s){
-    change(s ? c : o)
-
+    change(s ? c : o);
     setTimeout(function () {
       s = !s;
       blink(o, c, s);
